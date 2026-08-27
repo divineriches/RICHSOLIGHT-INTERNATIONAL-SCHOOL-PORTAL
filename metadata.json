@@ -1,0 +1,6 @@
+{
+  "name": "Exam Reporting and Result Portal",
+  "description": "An exam reporting and public result checking portal for managing classes, subjects, students, continuous assessment (CA1, CA2), midterm, and exam scores with printable report cards and broadsheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
